@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pdfplumber
+tesserocr
+python-multipart
+tqdm
+requests
+Pillow
+python-dotenv
+llama-cpp-python
+pytest
